@@ -160,7 +160,6 @@ video {
       padding: 30px;
     }
     #about-card.card .card-content p {
-      text-indent:50px;
       margin-bottom: 10px;
     }
 /*-------------------------------------------------------------------------------
@@ -572,7 +571,9 @@ ul.browser-default li {
     width: 100%;
     overflow: visible;
     z-index: 1;
-    top: 34px; }
+    top: 34px;
+    height: 430px;
+  }
     #v-card-holder #v-card #profile {
       /*profile v-card at max width 767*/
       position: absolute;
